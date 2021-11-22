@@ -1,0 +1,7 @@
+null themes sites====================================
+1.	null-24.com
+2.	jojo-themes.com
+
+How to check website has been created using which theme? ======================
+1. 	https://whatwpthemeisthat.com/
+2.	https://www.isitwp.com/
